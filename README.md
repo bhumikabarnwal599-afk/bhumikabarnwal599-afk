@@ -173,6 +173,15 @@
 
 ---
 
+## 🏆 Achievements
+
+* 🥇 Winner – IBM ICE Day (Project Presentation)
+* 🥇 Winner – Tech Fest Quiz
+* 🥇 Winner – IBM ICE Day (Paper Presentation)
+* 🏅 Participant – National Hackathons
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -181,15 +190,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-snake-dark.svg)
-
-</div>
-
----
 
 ## 💬 Random Dev Quote
 
